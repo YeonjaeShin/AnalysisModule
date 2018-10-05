@@ -41,6 +41,7 @@ pip install setuptools
 ```
 ### Object Detection
 객체 검출 모델의 설치 과정은 [CraftGBD](https://github.com/craftGBD/craftGBD)의 설치 과정과 동일하다.
+Selective Search를 위해 ximgproc을 사용하므로 OpenCV 3 + OpenCV_contrib을 설치하여야 한다.
 
 
 ### Docker Compose
